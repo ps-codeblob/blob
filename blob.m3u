@@ -35,7 +35,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
-# Collected by t2 showing playlist >>> MUSIC
+//Collected by t2 showing playlist >>> MUSIC
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -105,7 +105,7 @@ https://bigdickgital.semar26.xyz/fetch?id=transtv.m3u8&auth=transsemar25
 https://bigdickgital.semar26.xyz/fetch?id=trans7.m3u8&auth=transsemar25
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/sctv.png" group-title="CHANNEL | INDONESIA",SCTV HD
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 tvg-id="Sctv  Ott Nav" tvg-name="Sctv  Ott Nav - Server 1" tvg-logo="https://iptvsystem.my.id/img/sctv.png" group-title="CHANNEL | INDONESIA",SCTV V+
+#EXTINF:-1 tvg-id="Sctv  Ott Nav" tvg-name="Sctv  Ott Nav - Server 1" tvg-logo="https://iptvsystem.my.id/img/sctv.png" group-title="CHANNEL | INDONESIA",SCTV V+
 http://103.172.186.209:80/play/WJ6Qgtmcf4u4RxfR77_l5VHKXxtw11LBj60GSfDaDug/m3u8
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/RCTI.png" group-title="CHANNEL | INDONESIA", RCTI
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -208,7 +208,7 @@ https://e.siar.us/live/tvmu.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://tvstreamcast.com/tawaftv.m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
-http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=Sunna_TV
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
@@ -307,4 +307,5 @@ https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benmy1.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benmy2.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benmy3.m3u8
-https://ilglobotv-live.akamai
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m
+`
